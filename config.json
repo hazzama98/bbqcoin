@@ -1,0 +1,5 @@
+{
+    "max_executions": 100,
+    "cooldown_minutes": 30,
+    "energy": 50000
+}
